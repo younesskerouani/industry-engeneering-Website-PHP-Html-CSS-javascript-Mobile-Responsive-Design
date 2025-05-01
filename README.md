@@ -4,11 +4,6 @@
 
 Industry & Engineering is a website for an industrial consulting company specializing in construction, automotive, energy, and chemical sectors. The site serves as both a company portfolio and includes industrial performance calculation tools.
 
-## Live Demo
-
-Experience the ENSAKH Industry website in action:
-[View Live Demo](http://industryhub.infy.uk/public_html/index-2.html)
-
 ## Features
 
 - **Multi-sector Expertise**: Dedicated sections for construction, automotive, energy, and chemical industries
